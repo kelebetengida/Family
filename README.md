@@ -56,7 +56,7 @@ SO THAT we can work share knowledge that can better help us in supporting famili
 1. use `git clone ` to clone repo sources
 2. create a branch with the `git checkout -b <your_branch_name>`
 3. push your branch with `git push -u origin <your_branch_name>`
-4. create a pull request for our review
+4. create a pull request for our review.
 
 ## From developers
 
