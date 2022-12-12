@@ -1,0 +1,47 @@
+[
+  {
+    "username": "Brian Kernighan",
+    "email": "bkernighan@techfriends.dev",
+    "password": "password01",
+    "organization": "Big Law Firm",
+    "location": "Seattle",
+    "profession": "Lawyer",
+    "interest": "Family Policy"
+  },
+  {
+    "username": "Max Kanat-Alexander",
+    "email": "mkanatalexander@techfriends.dev",
+    "password": "password02",
+    "organization": "Small Law Firm",
+    "location": "Bellevue",
+    "profession": "Lawyer",
+    "interest": "Family Law"
+  },
+  {
+    "username": "Why The Lucky Stiff",
+    "email": "wtls@techfriends.dev",
+    "password": "password03",
+    "organization": "State Government",
+    "location": "Olympia",
+    "profession": "Social Worker",
+    "interest": "Family Policy"
+  },
+  {
+    "username": "Kent Beck",
+    "email": "kbeck@techfriends.dev",
+    "password": "password04",
+    "organization": "State Government",
+    "location": "Olympia",
+    "profession": "Financial Advisor",
+    "interest": "Family Medicine"
+  },
+  {
+    "username": "Edward V. Berard",
+    "email": "evberard@techfriends.dev",
+    "password": "password05",
+    "organization": "Big Hospital",
+    "location": "Seattle",
+    "profession": "Doctor",
+    "interest": "Family Medicine"
+  }
+]

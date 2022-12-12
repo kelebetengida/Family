@@ -1,0 +1,9 @@
+.contact-grid {
+
+}
+.contact-grid > .row {
+  /* border: 1px black; */
+}
+.contact-grid > .row > .col-3,.contact-grid > .row > .col-4 {
+  word-break: break-all;
+}
