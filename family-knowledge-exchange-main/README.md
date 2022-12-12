@@ -64,4 +64,4 @@ Made by [Manuhuia](https://github.com/ManuhuiaBarcham), [Consolata](https://gith
 
 ## More from us
 
-To be updated with new projects.
+To be updated with new project updates. 
